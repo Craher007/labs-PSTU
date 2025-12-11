@@ -1,5 +1,4 @@
-﻿\
-
+﻿
 #include <iostream>
 using namespace std;
 int main()
@@ -24,8 +23,9 @@ int main()
         cout << endl;
         star += 2;
         space -=1;
-        return 0;
+        
         
     }
+    return 0;
 }
 
