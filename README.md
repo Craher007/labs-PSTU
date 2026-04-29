@@ -64,26 +64,26 @@
 #### 5 вариант
 | п/п | Наименование | Статус по коду | Статус по блок-схеме |
 | --- | --- | --- | --- |
-| 1 | №4, зеленая методичка | 🟢 (17.02.2026) | 🟢 (20.03.2026) |
-| 2 | №5, зеленая методичка | 🟢 (18.02.2026) | 🟢 (20.03.2026) |
-| 3 | Рекурсии на основе №3, зеленая методичка (все на рекурсии сюда) | 🟢 (21.03.2026) | 🟢 (21.03.2026) |
-| 4 | Ханойская башня | 🟢 (25.02.2026) | 🟢 (20.03.2026) |
-| 5 | Задача о 8 ферзя | 🟢 (17.03.2026) | 🟢 (20.03.2026) |
-| 6 | Простые сортировки (пузырек, выбор, вставки) | 🟢 (24.02.2026) | 🟢 (21.03.2026) |
-| 7 | №10, зеленая методичка (динамические массивы) | 🟢 (24.02.2026) | 🟢 (20.03.2026) |
-| 8 | №7.1, зеленая методичка | 🟢 (6.03.2026) | 🟢 (20.03.2026) |
-| 9 | №7.2, зеленая методичка | 🟢 (6.03.2026) | 🟢 (20.03.2026) |
-| 10 | №6, зеленая методичка (строки) | 🟢 (18.02.2026) | 🟢 (20.03.2026) |
-| 11 | №8, зеленая методичка | 🟢 (17.03.2026) | 🟢 (21.03.2026) |
-| 12 | №9, зеленая методичка | 🟢 (17.03.2026) | 🟢 (20.03.2026) |
-| 13 | №11.1, зеленая методичка | 🟢 (28.03.2026) |  |
-| 14 | №11.2, зеленая методичка | 🟢 (28.03.2026) |  |
-| 15 | №11.3, зеленая методичка | 🟢 (28.03.2026) |  |
-| 16 | №11.4, зеленая методичка | 🟢 (28.03.2026) |  |
-| 17 | Поиски (line inter bin) | 🟢 (20.04.2026) |  |
-| 18 | Поиск подстроки в строке | 🟢 (25.04.2026) |  |
-| 19 | Быстрые сортировки(Lomuto merge bucket contining | 🟢 (20.04.2026) |  |
-| 20 | Быстрые сортировки (Shell Hoare) | 🟢 (20.04.2026) |  |
+| 1 | №4, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_4/lab_4.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_4/Lab_4.jpg) |
+| 2 | №5, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_5/lab_5.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_5/lab_5.jpg) |
+| 3 | Рекурсии на основе №3, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_3/lab_3.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_3/lab_3.jpg) |
+| 4 | Ханойская башня | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Hanoi%20Tower/Hanoi%20Tower.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Hanoi%20Tower/Hanoi%20Tower.jpg) |
+| 5 | Задача о 8 ферзя | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Eight_Queens/Eight_Queens.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Eight_Queens/Eight_Queens.jpg) |
+| 6 | Простые сортировки (пузырек, выбор, вставки) | 🟢 [buble](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/sort/bubble/bubble.cpp) [choice](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/sort/choice/choice.cpp) [insert](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/sort/insert/insert.cpp) | 🟢 [buble](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/sort/bubble/bubble.jpg) [choice](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/sort/choice/choice.jpg) [insert](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/sort/insert/insert.jpg) |
+| 7 | №10, зеленая методичка (динамические массивы) | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_10/lab_10.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_10/lab_10.jpg) |
+| 8 | №7.1, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_7/lab_7.1/lab_7.1.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_7/lab_7.1/lab%207.1.jpg) |
+| 9 | №7.2, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_7/lab_7.2/lab_7.2.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_7/lab_7.2/lab%207.2.jpg) |
+| 10 | №6, зеленая методичка (строки) | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_6/lab_6.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_6/lab_6.jpg) |
+| 11 | №8, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_8/lab_8.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_8/lab_8.jpg) |
+| 12 | №9, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_9/lab_9.cpp) | 🟢 [jpg](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_9/lab_9.jpg) |
+| 13 | №11.1, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_11/lab_11_1/11_1.cpp) |  |
+| 14 | №11.2, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_11/lab_11_2/11_2.cpp) |  |
+| 15 | №11.3, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_11/lab_11_3/11_3.cpp) |  |
+| 16 | №11.4, зеленая методичка | 🟢 [code](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/lab_11/lab_11_4/11_4.cpp) |  |
+| 17 | Поиски (line inter bin) | 🟢 [line](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/search(line%20inter%20bin)/line_search/line_search.cpp) [inter](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/search(line%20inter%20bin)/interpolation_search/interpolation_search.cpp) [binary](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/search(line%20inter%20bin)/binary_search/binary_search.cpp) |  |
+| 18 | Поиск подстроки в строке | 🟢 [Naive](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/string_search/Naive_search/Naive_search.cpp) [KMP](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/string_search/KMP_search/KMP_search.cpp) [BM](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/string_search/BM_search/BM_search.cpp) |  |
+| 19 | Быстрые сортировки(Lomuto merge bucket counting | 🟢 [Lomuto](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/fast%20sort/lomuto_sort/lomuto_sort.cpp) [Merge](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/fast%20sort/merge_sort/merge_sort.cpp) [Bucket](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/fast%20sort/bucket_sort/bucket_sort.cpp) [counting](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/fast%20sort/counting_sort/counting_sort.cpp) |  |
+| 20 | Быстрые сортировки (Shell Hoare) | 🟢 [Shell](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/fast%20sort/Shell_sort/Shell_sort.cpp) [Hoare](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/fast%20sort/Hoare_sort/Hoare_sort.cpp) |  |
 | 21 | Многофазная и естественная сортировки |  |  |
 | 22 | Хэш таблицы |  |  |
 
