@@ -3,15 +3,15 @@
 
 using namespace std;
 
-int Naive_search(string a, string b) {
-    int a_size = a.size();
-    int b_size = b.size();
+int Naive_search(string text, string ptn) {
+    int size_line = text.size();
+    int size_ptn = ptn.size();
 
-    if (a_size < b_size || b_size == 0) return -1;
-    for (int i = 0; i <= a_size - b_size; i++) {
+    if (size_line < size_ptn || size_ptn == 0) return -1;
+    for (int i = 0; i <= size_line - size_ptn; i++) {
         int j = 0;
-        while (j < b_size && b[j] == a[i + j]) j++;
-        if (j == b_size) return i;
+        while (j < size_ptn && ptn[j] == text[i + j]) j++;
+        if (j == size_ptn) return i;
     }
     return -1;
 }
@@ -30,6 +30,4 @@ int main() {
     int index = Naive_search(text, pattern);
     if (index == -1) cout << "Вхождений подстроки не найдено" << endl;
     else cout << "Вхождение подстроки найдено, индекс: " << index << endl;
-
-    return 0;
 }

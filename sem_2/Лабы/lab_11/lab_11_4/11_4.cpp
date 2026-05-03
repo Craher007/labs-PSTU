@@ -98,7 +98,7 @@ void popelem(Queue& Que, int number) {
 
 void pushelem(Queue& Que, int number, int count) {
     if (number<1 or number>Que.size) {
-        cout << "Удаление невозможно";
+        cout << "Добавление невозможно";
         return;
     }
 

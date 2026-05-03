@@ -85,5 +85,4 @@ int main(){
     if (index == -1) cout << "Вхождений подстроки не найдено" << endl;
     else cout << "Вхождение подстроки найдено, индекс: " << index << endl;
 
-    return 0;
 }

@@ -4,20 +4,20 @@
 using namespace std;
 
 void merge(int* arr, int left, int mid, int right) {
-    int leftright_arrnge = mid - left + 1;
-    int rightright_arrnge = right - mid;
+    int LA = mid - left + 1;
+    int RA = right - mid;
 
-    int* left_arr = new int[leftright_arrnge];
-    int* right_arr = new int[rightright_arrnge];
+    int* left_arr = new int[LA];
+    int* right_arr = new int[RA];
 
-    for (int i = 0; i < leftright_arrnge; i++) { left_arr[i] = arr[left + i]; }
-    for (int i = 0; i < rightright_arrnge; i++) { right_arr[i] = arr[mid + 1 + i]; }
+    for (int i = 0; i < LA; i++) { left_arr[i] = arr[left + i]; }
+    for (int i = 0; i < RA; i++) { right_arr[i] = arr[mid + 1 + i]; }
 
     int leftidx = 0;
     int rightidx = 0;
     int mergeidx = left;
 
-    while (leftidx < leftright_arrnge && rightidx < rightright_arrnge) {
+    while (leftidx < LA && rightidx < RA) {
         if (left_arr[leftidx] <= right_arr[rightidx]) {
             arr[mergeidx] = left_arr[leftidx];
             leftidx++;
@@ -29,13 +29,13 @@ void merge(int* arr, int left, int mid, int right) {
         mergeidx++;
     }
 
-    while (leftidx < leftright_arrnge) {
+    while (leftidx < LA) {
         arr[mergeidx] = left_arr[leftidx];
         leftidx++;
         mergeidx++;
     }
 
-    while (rightidx < rightright_arrnge) {
+    while (rightidx < RA) {
         arr[mergeidx] = right_arr[rightidx];
         rightidx++;
         mergeidx++;

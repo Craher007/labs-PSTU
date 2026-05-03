@@ -89,7 +89,7 @@ void popelem(stack& stElem, int number) {
 
 void pushelem(stack& stElem, int number, int count) {
     if (number<1 or number>stElem.size) {
-        cout << "Удаление невозможно";
+        cout << "Добавление невозможно";
         return;
     }
     stack tmp;
