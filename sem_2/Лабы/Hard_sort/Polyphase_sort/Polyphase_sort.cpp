@@ -81,8 +81,7 @@ void mergeRun(ifstream& a, ifstream& b, ofstream& out) {
     out << SEP << ' ';
 }
 
-void distribute(const string& source, const string& f1, const string& f2,
-    int runs1, int runs2, int realRuns) {
+void distribute(const string& source, const string& f1, const string& f2, int runs1, int runs2, int realRuns) {
     ifstream in(source);
     ofstream a(f1), b(f2);
 

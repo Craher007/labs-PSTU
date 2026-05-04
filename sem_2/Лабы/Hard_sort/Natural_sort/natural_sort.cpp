@@ -42,14 +42,7 @@ int splitFile(const string& fileName, fstream& A, fstream& B, fstream& C, int bl
     return blockCount;
 }
 
-void writeRemainingBlock(
-    fstream& input,
-    fstream& output,
-    int& value,
-    bool& hasValue,
-    int& used,
-    int blockSize
-) {
+void writeRemainingBlock( fstream& input, fstream& output, int& value, bool& hasValue, int& used, int blockSize ) {
     while (hasValue && used < blockSize) {
         output << value << ' ';
         used++;
@@ -149,5 +142,4 @@ int main() {
 
     cout << endl;
 
-    return 0;
 }

@@ -218,5 +218,4 @@ int main() {
 
     hashTable.clear_table();
 
-    return 0;
 }
