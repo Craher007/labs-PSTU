@@ -91,19 +91,19 @@
 ### Классы
 | п/п | Наименование | Статус по коду | Статус по блок-схеме |
 | --- | --- | --- | --- |
-| 23 | Классы 1 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%201/Files) | [UML]() |
-| 24 | Классы 2 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%202/Files) | [UML]() |
-| 25 | Классы 3 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%203/Files) | [UML]() |
-| 26 | Классы 4 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%204/Files) | [UML]() |
-| 27 | Классы 5 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%205/Files) | [UML]() |
-| 28 | Классы 6 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%206/Files) | [UML]() |
-| 29 | Классы 7 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%207/Files) | [UML]() |
-| 30 | Классы 8 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%208/Files) | [UML]() |
-| 31 | Классы 9 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%209/Files) | [UML]() |
-| 32 | Классы 10 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2010/Files) | [UML]() |
-| 33 | Классы 11 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2011/Files) | [UML]() |
-| 34 | Классы 12 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2012/Files) | [UML]() |
-| 35 | Классы 13 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2013/Files) | [UML]() |
+| 23 | Классы 1 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%201/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%201/Class%201.jpg) |
+| 24 | Классы 2 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%202/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%202/class%202.jpg) |
+| 25 | Классы 3 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%203/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%203/class%203.jpg) |
+| 26 | Классы 4 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%204/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%204/class%204.jpg) |
+| 27 | Классы 5 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%205/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%205/class%205.jpg) |
+| 28 | Классы 6 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%206/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%206/class%206.jpg) |
+| 29 | Классы 7 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%207/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%207/class%207.jpg) |
+| 30 | Классы 8 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%208/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%208/class%208.jpg) |
+| 31 | Классы 9 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%209/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%209/class%209.jpg) |
+| 32 | Классы 10 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2010/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2010/class%2010.jpg) |
+| 33 | Классы 11 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2011/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2011/class%2011.jpg) |
+| 34 | Классы 12 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2012/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2012/class%2012.jpg) |
+| 35 | Классы 13 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2013/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2013/class%2013.jpg) |
 
 
 
