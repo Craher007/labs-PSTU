@@ -114,3 +114,4 @@
 | 1 | IDEF 0 | 🟢 [IDEF 0](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/IDEF%200.jpg) |
 | 2 | Project | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/ProductionPurchaseOptimization) |
 | 3 | Видео | 🟢 [Rutube](https://rutube.ru/video/private/46a9b54ab4e67f1718ce1fffc51816d3/?p=Pbk2q1gZObru6lEF8Utw7w) |
+| 4 | UML | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/UML.jpg) |
