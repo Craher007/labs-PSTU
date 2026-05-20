@@ -21,7 +21,6 @@ using namespace std;
 
 static void enableToggleSelection(QTableWidget* table) {
     // Таблицы результата нужны только для просмотра.
-    // Повторный клик по выделенной ячейке снимает выделение.
     QObject::connect(table, &QTableWidget::itemPressed, table, [table](QTableWidgetItem* item) {
         if (item != nullptr && item->isSelected()) {
             QTimer::singleShot(0, table, [table]() {
@@ -462,7 +461,6 @@ void MainWindow::calculatePlan() {
 
     Planner planner(database);
     // Planner считает "сырой" план: складские потребности, закупки и ошибки.
-    // Окно уже превращает эти данные в таблицы, понятные пользователю.
     PlanResult result = planner.makePlan(productName.toStdString(), productQuantitySpin->value(), dueDate, reserveSpin->value());
 
     if (!result.errors.empty()) {

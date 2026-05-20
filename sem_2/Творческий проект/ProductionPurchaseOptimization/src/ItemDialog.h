@@ -43,7 +43,7 @@ private:
     int getComponentDaysFromItem(QTreeWidgetItem* item) const;
     double getComponentCapacityFromItem(QTreeWidgetItem* item) const;
 
-    // Фабрики виджетов для ячеек дерева. Так строки выглядят одинаково и не дублируют текст.
+    // Фабрики виджетов для ячеек дерева.
     QLineEdit* createCellEdit(const QString& value);
     QComboBox* createComponentTypeCombo(ItemType type);
     QSpinBox* createDaysSpin(int days);

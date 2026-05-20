@@ -235,7 +235,7 @@ bool Database::renameItem(const string& oldName, const string& newName) {
 }
 
 void Database::clear() {
-    // Полная очистка нужна для кнопки "Удалить всю базу" в окне Qt.
+    // Полная очистка нужна для кнопки "Удалить всю базу"
     items.clear();
 }
 

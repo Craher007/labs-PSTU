@@ -8,8 +8,7 @@ Planner::Planner(const Database& database) : database(database) {
 }
 
 int Planner::calculateDuration(int days, double capacity, double quantity) const {
-    // Один цикл занимает days дней. Если за цикл можно сделать/заказать capacity единиц,
-    // то количество циклов равно quantity / capacity с округлением вверх.
+    // Один цикл занимает days дней. Если за цикл можно сделать/заказать capacity единиц, то количество циклов равно quantity / capacity с округлением вверх.
     if (days < 0) {
         days = 0;
     }
@@ -56,8 +55,7 @@ void Planner::planItem(const string& name, double quantity, const Date& needDate
     path.push_back(name);
 
     if (item->type == PURCHASED) {
-        // Закупка заканчивает ветку расчета: дальше компонентов нет,
-        // поэтому считаем крайний и оптимальный срок заказа.
+        // Закупка заканчивает ветку расчета: дальше компонентов нет, поэтому считаем крайний и оптимальный срок заказа.
         int deliveryDays = calculateDuration(item->days, item->capacity, quantity);
 
         PurchaseNeed purchase;
@@ -80,8 +78,7 @@ void Planner::planItem(const string& name, double quantity, const Date& needDate
     int productionDays = calculateDuration(item->days, item->capacity, quantity);
     Date componentsNeedDate = addDays(needDate, -productionDays);
 
-    // Для изготавливаемой записи сначала вычисляем дату, когда ее компоненты должны быть на складе,
-    // затем рекурсивно считаем каждый компонент.
+    // Для изготавливаемой записи сначала вычисляем дату, когда ее компоненты должны быть на складе, затем рекурсивно считаем каждый компонент.
     for (const Component& component : item->components) {
         if (component.name.empty()) {
             result.errors.push_back("У изделия есть компонент без названия: " + item->name);

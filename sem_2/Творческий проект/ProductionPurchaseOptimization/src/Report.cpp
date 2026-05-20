@@ -112,7 +112,7 @@ vector<PurchaseNeed> aggregatePurchasesForReport(const vector<PurchaseNeed>& sou
 }
 
 void printPlanResult(const PlanResult& result, const Date& requestDate) {
-    // Консольный вывод оставил как вспомогательный вариант(Для проверок изначально было консольное предложение)
+    // Консольный вывод оставил как вспомогательный вариант(Для проверок, изначально было консольное предложение)
     // Qt-окно использует те же структуры PlanResult, StockNeed и PurchaseNeed.
     cout << "\n========== Результат расчета ==========\n";
     cout << "Готовый продукт: " << result.productName << " - "

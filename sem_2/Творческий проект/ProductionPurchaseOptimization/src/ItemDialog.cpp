@@ -237,7 +237,7 @@ void ItemDialog::addNestedComponents(QTreeWidgetItem* parent, const Item& item, 
 }
 
 void ItemDialog::refreshComponentNumbers() {
-    // После добавления/удаления пересобираем номера 1, 1.1, 1.1.1 и заново подтягиваем вложенные компоненты из базы.
+    // После добавления/удаления пересобираем номера 1, 1.1, 1.1.1 ...
     for (int i = 0; i < componentsTree->topLevelItemCount(); i++) {
         QTreeWidgetItem* item = componentsTree->topLevelItem(i);
         QString number = QString::number(i + 1);

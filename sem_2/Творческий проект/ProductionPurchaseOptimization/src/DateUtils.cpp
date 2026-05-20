@@ -7,7 +7,6 @@ using namespace std;
 
 static time_t dateToTime(const Date& date) {
     // Для операций с датами используем стандартный time_t.
-    // Час ставим 12:00, чтобы переходы времени не сдвигали дату на соседний день.
     tm value = {};
     value.tm_mday = date.day;
     value.tm_mon = date.month - 1;
