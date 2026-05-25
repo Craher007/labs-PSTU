@@ -108,7 +108,7 @@
 ### Графы, деревья, коммивояжер
 | п/п | Наименование | Статус по коду | Статус по UML |
 | --- | --- | --- | --- |
-| 36 | Graph | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Graph/files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Graph/UML_Graph.jpg) |
+| 36 | Graph | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Graph/files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Graph/Graph_UML.jpg) |
 | 37 | Tree | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Binary_Tree/files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Binary_Tree/UML_Tree.jpg) |
 | 38 | Kommivoyjar | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Kommivoyjar/files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Kommivoyjar/UML_Kommivoyjar.jpg) |
 
