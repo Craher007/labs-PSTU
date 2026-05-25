@@ -89,7 +89,7 @@
 
 
 ### Классы
-| п/п | Наименование | Статус по коду | Статус по блок-схеме |
+| п/п | Наименование | Статус по коду | Статус по UML |
 | --- | --- | --- | --- |
 | 23 | Классы 1 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%201/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%201/Class%201.jpg) |
 | 24 | Классы 2 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%202/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%202/class%202.jpg) |
@@ -104,6 +104,13 @@
 | 33 | Классы 11 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2011/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2011/class%2011.jpg) |
 | 34 | Классы 12 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2012/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2012/class%2012.jpg) |
 | 35 | Классы 13 | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2013/Files) | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Class/Class%2013/class%2013.jpg) |
+
+### Графы, деревья, коммивояжер
+| п/п | Наименование | Статус по коду | Статус по UML |
+| --- | --- | --- | --- |
+| 36 | Graph | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Graph/files) | [UML]() |
+| 37 | Tree | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Binary_Tree/files) | [UML]() |
+| 38 | Kommivoyjar | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%9B%D0%B0%D0%B1%D1%8B/Kommivoyjar/files) | [UML]() |
 
 
 
