@@ -122,3 +122,4 @@
 | 2 | Project | 🟢 [files](https://github.com/Craher007/labs-PSTU/tree/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/ProductionPurchaseOptimization) |
 | 3 | Видео | 🟢 [Rutube](https://rutube.ru/video/private/f42ae4739f82de52419a5cf714f7f7d4/?p=l-fWwtbC-t7qVIKsly-9KQ) |
 | 4 | UML | 🟢 [UML](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/UML.jpg) |
+| 5 | Отчет | 🟢 [PDF](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/Report/ARM_%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf) [DOCX](https://github.com/Craher007/labs-PSTU/blob/main/sem_2/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/Report/ARM_%D0%9E%D1%82%D1%87%D0%B5%D1%82.docx) |
